@@ -3,7 +3,10 @@ ED KONTENT PLAN
 - Javascript
   * ES6
   * Framework Javascript
+   ^ Vue
 - Structure Basic Data
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
